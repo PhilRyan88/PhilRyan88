@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhilRyan88
+- 👋 Hi, I’m Aditya S Sooraj
 - 👀 Interested in Solidity, Blockchain, Cryptocurrency
 - 🌱 I’m currently learning Solidity and Blockchain technology
 - 💞️ I’m looking to collaborate on ...
