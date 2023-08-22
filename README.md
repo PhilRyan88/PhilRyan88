@@ -22,7 +22,7 @@ I'm always excited to collaborate, learn, and share knowledge with fellow blockc
 
 ## 📫 Get in Touch
 
-Have an interesting project idea, want to collaborate, or simply want to chat about the latest blockchain trends? Don't hesitate to reach out to me at [adityasooraj@engineer.com](mailto:adityasooraj@engineer.com).
+Have an interesting project idea, want to collaborate, or simply want to chat about the latest blockchain trends? Don't hesitate to reach out to me at [adityasrj@engineer.com](mailto:adityasrj@engineer.com).
 
 Let's build the decentralized future together! 🌐🔗
 
