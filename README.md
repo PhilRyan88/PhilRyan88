@@ -14,7 +14,7 @@ Ever since I came across the fascinating world of blockchain technology, I've be
 
 ## 🌱 Lifelong Learner
 
-I'm a firm believer in the power of continuous learning. While my journey is ongoing, I'm excited to sharpen my skills, broaden my horizons, and contribute to the ever-evolving blockchain landscape.
+I'm a firm believer in the power of continuous learning. I'm excited to sharpen my skills, broaden my horizons, and contribute to the ever-evolving blockchain landscape.
 
 ## 🤝 Let's Connect!
 
