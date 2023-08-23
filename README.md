@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀 Aspiring Web 3 Developer and blockchain enthu
 
 Ever since I came across the fascinating world of blockchain technology, I've been captivated by its potential to revolutionize industries and change the way we interact with digital platforms. My journey began with React, where I utilized the power of modern web development to create intuitive user interfaces. Then, I dived into Solidity  to explore the world of decentralized applications.
 
-## 🚀 My Endeavors
+# 🚀 My Endeavors
 
 - 🌐 **Web Development:** Armed with React, I've crafted user-centric web experiences that are not just functional but delightful to interact with. My goal is to create user interfaces that seamlessly integrate with blockchain backends, providing an exceptional end-to-end experience.
 
