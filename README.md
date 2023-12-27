@@ -1,5 +1,5 @@
-if(user == Dev)
-Print("Hello Devs")
+#if(user == Dev)
+#Print("Hello Devs")
 else if(user == Stalker)
 Print("Hello Stalker")
 
