@@ -1,7 +1,4 @@
-#if(user == Dev)
-#Print("Hello Devs")
-else if(user == Stalker)
-Print("Hello Stalker")
+Ho Ho Ho Print(Happy New Year)
 
 
 
